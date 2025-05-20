@@ -4,11 +4,17 @@ I’m a passionate developer gaining  experience in web development, and I'm con
 
 ## 👀 Interests
 - Web development (HTML, CSS, JavaScript)
-- JavaScript frameworks (React, Node.js)
+- JavaScript frameworks (React, Node.js,Next.js)
 - Continuous learning and building real-world projects
 - Exploring modern web deployment techniques (Netlify, GitHub Pages)
 
 ## 🌱 Currently Learning
+- **Next.js 14 (App Router)**
+- **Prisma** for database ORM
+- **PostgreSQL** via Supabase
+- **NextAuth.js** for authentication
+- **Tailwind CSS** for styling
+- **Vercel** for deployment
 - Advanced JavaScript
 - API Development
 - Cloud-based solutions and deployment (AWS, Firebase)
